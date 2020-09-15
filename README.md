@@ -1,5 +1,6 @@
 ### Hello GitHub World! 👋
 
+I'm Fernando and currently I'm a fullstack web developer based in Porto Alegre 🇧🇷.
 <!--
 **fpsaraiva/fpsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
