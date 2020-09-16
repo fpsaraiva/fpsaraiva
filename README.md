@@ -6,7 +6,8 @@ In 2016, I've decided to change careers from International Affairs to IT. Since 
 
 I've worked with different technologies, such as HTML, CSS, JavaScript, Java, Postgres and MySQL and I'm currently learning Node.js. I have a strong intererest in Agile methodologies too.
 
-<img src="https://github-readme-stats.vercel.app/api?username=fpsaraiva&show_icons=true" alt="stats do github"/> 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpsaraiva&hide=html&layout=compact" alt="linguagens mais utilizadas" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=fpsaraiva&show_icons=true&layout=compact" alt="stats do github"/> 
 
 <a href="https://twitter.com/fpsaraiva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter do fernando saraiva" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/fpsaraiva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin do fernando saraiva" height="20" width="20" /></a>
