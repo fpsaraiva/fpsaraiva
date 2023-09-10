@@ -1,10 +1,12 @@
-### Hello GitHub World! 👋
+### Hi there! 👋
 
-I'm Fernando and I'm a web developer based in Porto Alegre 🇧🇷.
+I'm Fernando and I'm a web developer based in Criciúma 🇧🇷.
 
-In 2016, I've decided to change careers from International Affairs to IT. Since then, I've explored different aspects of software development, worked for 2 years with Support and concluded my undergraduate studies in System Analysis and Development.
+In 2016, I've decided to change careers from International Affairs to IT. Since then, I've explored different aspects of software development, having worked for 2 years with Support and concluded my undergraduate studies in System Analysis and Development.
 
-So far, I've worked with different stacks, such as Node/React and Java/Spring/Hibernate and I'm currently learning Kotlin/Micronaut. I have a strong intererest in Agile methodologies too.
+So far, I've worked with different stacks, such as Node/React, Java/Spring/Hibernate and Kotlin/Micronaut. Currently, I work as a full stack developer with Angular/Java.
+
+After a long break, I'm reactivating this profile so I can share my studies.
 
 [![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fpsaraiva&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsaraiva&hide=html&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
